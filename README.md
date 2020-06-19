@@ -1,1 +1,1 @@
-![documentation](https://sauravshah31.github.io/indexing)
+https://sauravshah31.github.io/indexing
